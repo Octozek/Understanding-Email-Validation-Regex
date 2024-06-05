@@ -122,7 +122,7 @@ In our regex:
 
 ## Author
 
-This tutorial was created by octozek, a web developer who is passionate about demystifying regex for fellow developers.
+This tutorial was created by [Octozek](https://github.com/Octozek), a web developer who is passionate about demystifying regex for fellow developers.
 
 
 
